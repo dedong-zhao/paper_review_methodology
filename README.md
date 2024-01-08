@@ -1,2 +1,6 @@
-# paper_review_methodology
-Paper review methodology.
+# Paper Review Methodology
+## Important paper
+Make paper review slides during reviewing.
+   Important information adopted as knowledge.
+## Any other normal paper 
+  Important information adopted as knowledge.
